@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "45099634172",
+    "firebase_url": "https://fir-notification-e0d4e.firebaseio.com",
+    "project_id": "fir-notification-e0d4e",
+    "storage_bucket": "fir-notification-e0d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45099634172:android:2d0b2e372a96666b",
+        "android_client_info": {
+          "package_name": "com.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45099634172-28mt2vrvi9oml81h77dmpsoajurnv2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8qjtq7rzz4PvxlLk7W3bLWUaoHVfUlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45099634172:android:f16158b20666d197",
+        "android_client_info": {
+          "package_name": "info.digital.loginandregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45099634172-28mt2vrvi9oml81h77dmpsoajurnv2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8qjtq7rzz4PvxlLk7W3bLWUaoHVfUlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45099634172:android:e8145d068a7cc66d",
+        "android_client_info": {
+          "package_name": "com.imagegallery.lujayn.imagegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45099634172-28mt2vrvi9oml81h77dmpsoajurnv2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8qjtq7rzz4PvxlLk7W3bLWUaoHVfUlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45099634172:android:e2907a6c18c046de",
+        "android_client_info": {
+          "package_name": "com.lujayn.wootouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45099634172-28mt2vrvi9oml81h77dmpsoajurnv2v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8qjtq7rzz4PvxlLk7W3bLWUaoHVfUlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
